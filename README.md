@@ -1,4 +1,11 @@
 # 🌐 LLM 기반 HTTP 미들웨어 자동화 시스템
+
+## 0. How to Run
+
+1. `pip install anthropic dotenv streamlit`
+2. `touch .env` << anthropic api key required
+3. `streamlit run app.py`
+
 ## 📖 1. 시스템 개요
 
 ## 🛠️ 1.1 프로젝트 배경
